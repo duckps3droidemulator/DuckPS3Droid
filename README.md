@@ -4,6 +4,19 @@
 ------------Version 1.1 Beta-------------\
 ------------26/3---29/3/2022-----------
 
+----------------------------------------
+
+# SYSTEM REQUIREMENTS
+CPU: 1.4Ghz\
+MEMORY (RAM): 2GB\
+GPU CARD: Mali-5xx,6xx,7xx,8xx - Adreno-5xx,6xx,7xx,8xx\
+OpenGL: 3.x
+# PHONE SYSTEM
+ANDROID: 5.1 ~ 11\
+ANDROID SUPPORT DEVICES: 32Bit ~ 64Bit (x86_64 Google Pixel NOT)
+
+---------------------------------------
+
 Fixed Games 2 in 1 New!\
 ![](README/095354.png)
 
