@@ -1,4 +1,4 @@
-## ![](Icon/64.png) DuckPS3Droid Emulator Android
+## ![](Icon/64.png) "height="720px" width="1280px" DuckPS3Droid Emulator Android
 
 ------------Version 1.0 Beta-------------\
 ------------26/3---29/3/2022-----------
