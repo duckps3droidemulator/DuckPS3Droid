@@ -1,4 +1,5 @@
-## ![](Icon/64.png) "height="720px" width="1280px" DuckPS3Droid Emulator Android
+## <h1 align="center"> <img src="icon/16.png" height="64" width="64"> DuckPS3Droid Emulator Android </h1>
+ 
 
 ------------Version 1.0 Beta-------------\
 ------------26/3---29/3/2022-----------
