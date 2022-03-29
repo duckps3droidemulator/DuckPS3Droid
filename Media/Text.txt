@@ -1,6 +1,6 @@
 Add Games Webm Version 1.0
 God of War III - 1 Min Trial
-GTA V - 1 Min Trail
+GTA V - 1 Min Trial
 
 Add PS3 WEBM Blue
 Fixed ps3startup.webm
