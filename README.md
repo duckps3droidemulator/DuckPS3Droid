@@ -1,4 +1,4 @@
-## <h1 align="center"> <img src="icon/16.png" height="64" width="64"> DuckPS3Droid Emulator Android </h1>
+## <h1 align="center"> <img src="https://github.com/duckps3droidemulator/DuckPS3Droid/blob/main/Icon/64.png" height="24" width="24"> DuckPS3Droid Emulator Android </h1>
  
 
 ------------Version 1.0 Beta-------------\
