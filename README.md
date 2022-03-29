@@ -5,3 +5,6 @@
 
 Fixed Games 2 in 1 New!\
 ![](README/095354.png)
+
+FIXED VIDEO ERROR SCREEN NO\
+![](Original PS3/ps3startup.gif)
