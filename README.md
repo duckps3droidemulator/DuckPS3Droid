@@ -1,7 +1,7 @@
 ## <h1 align="center"> <img src="https://github.com/duckps3droidemulator/DuckPS3Droid/blob/main/Icon/64.png" height="24" width="24"> DuckPS3Droid Emulator Android </h1>
 
 
-------------Version 1.1 Beta-------------\
+------------Version 1.2 Beta-------------\
 ------------26/3---29/3/2022-----------
 
 ----------------------------------------
