@@ -21,7 +21,7 @@ Fixed Games 2 in 1 New!\
 ![](README/095354.png)
 
 Data Memory Low Files!\
-<h1 align="center"> <img src="https://github.com/duckps3droidemulator/DuckPS3Droid/blob/main/Original%20PS3/20220329_105549.png" height="450" width="820"> DuckPS3Droid Emulator Android </h1>
+<h1 align="center"> <img src="https://github.com/duckps3droidemulator/DuckPS3Droid/blob/main/Original%20PS3/20220329_105549.png" height="400" width="820"> DuckPS3Droid Emulator Android </h1>
 
 
 FIXED VIDEO ERROR SCREEN GLITCH NOT!!!
