@@ -17,6 +17,10 @@ ANDROID SUPPORT DEVICES: 32Bit ~ 64Bit (x86_64 Google Pixel NOT)
 
 ---------------------------------------
 
+(NEW) Marshmallow 6.0
+<h1 align="center"> <img src="https://github.com/duckps3droidemulator/DuckPS3Droid/blob/main/README/20220407.png" height="420px" width="640px"> </h1>
+
+
 Fixed Games 2 in 1 New!\
 ![](README/095354.png)
 
