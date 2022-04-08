@@ -26,7 +26,7 @@ Need for Speed Rivals
 
 <h1 align="center"> <img src="https://github.com/duckps3droidemulator/DuckPS3Droid/blob/main/README/192957.png" height="420px" width="640px"> </h1>
 
-Version 1.2 Old~ 1.3 M6.0\
+Version 1.2 Old ~ 1.3 M6.0\
 ![](README/095354.png)
 
 FIXED VIDEO ERROR SCREEN GLITCH NOT!!!
